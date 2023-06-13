@@ -4,7 +4,7 @@ Enable  USB WIFI 8188GU in Armbian
 ## Steps
 
 ### Update your system 
-`sudo apt=get update`
+`sudo apt-get update`
 
 ### Install armbian firmware
 `sudo apt-get install armbian-firmware-full`
